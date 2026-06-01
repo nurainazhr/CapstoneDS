@@ -1,6 +1,8 @@
 # Beach Litter Analytic Dashboard
-## Deskripsi
-Proyek ini bertujuan untuk mengidentifikasi dan mengklasifikasikan material sampah di kawasan pantai secara cepat dan akurat. Analisis dilakukan untuk melihat karakteristik kekerasan material, tingkat daur ulang, serta tren akumulasi volume sampah pesisir.
+## 📝 Deskripsi
+<p> Beach Litter Analytic Dashboard adalah dashboard interaktif yang dirancang untuk mengidentifikasi dan menganalisis karakteristik sampah yang ditemukan di kawasan pantai. Dashboard ini menyajikan informasi mengenai komposisi material sampah, distribusi jenis sampah, serta potensi daur ulang berdasarkan karakteristik material yang terdeteksi. 
+<p> </p>Dengan dashboard ini, pengguna dapat mengetahui jenis material yang paling banyak mencemari pantai dan menilai peluang pemanfaatan kembali (_recycling_) dari setiap material sampah yang ditemukan.
+
 ## Setup Environment - Shell/Terminal
 ```
 mkdir CapstoneDS
