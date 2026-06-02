@@ -7,7 +7,7 @@
 Lihat detail analisis dan visualisasi ini di sini [notebook](https://github.com/nurainazhr/CapstoneDS/blob/main/capstone.ipynb)
 
 ## Dataset
-
+Dashboard dibangun menggunakan dataset Marine Litter Watch: Litter on the beach yang diperoleh dari [(https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021)]
 
 ## Pertanyaan Bisnis
 1. Berapa tingkat daur ulang (_Recycability Rate_) untuk setiap kategori material
