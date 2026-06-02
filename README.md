@@ -8,7 +8,7 @@ Lihat detail analisis dan visualisasi ini di sini [notebook](https://github.com/
 
 ## Dataset
 Proyek ini menggunakan dataset **Marine Litter Watch: Litter on the Beach** yang tersedia di Kaggle.
-Sumber: https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
+<p>Sumber: https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
 ## Pertanyaan Bisnis
 1. Berapa tingkat daur ulang (_Recycability Rate_) untuk setiap kategori material
