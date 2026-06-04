@@ -8,7 +8,7 @@ Lihat detail analisis dan visualisasi ini di sini [notebook](https://github.com/
 
 ## Dataset
 Proyek ini menggunakan dataset **Marine Litter Watch: Litter on the Beach** yang tersedia di Kaggle.
-<p>Sumber: https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
+Sumber: https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19502021
 
 ## Pertanyaan Bisnis
 1. Berapa tingkat daur ulang (_Recycability Rate_) untuk setiap kategori material
@@ -26,7 +26,8 @@ Proyek ini menggunakan dataset **Marine Litter Watch: Litter on the Beach** yang
 ### Streamlit Cloud
 Untuk melihat dasbor Streamlit langsung melalui tautan ini: [Dashboard](https://cc26-psu157.streamlit.app/)
 #### Preview
-
+Tampilan Beach Litter Analytic Dashboard
+(https://github.com/user-attachments/assets/bc8bf7ef-91fb-48e0-aba6-8716dc05346d)
 
 ### Run Streamlit on Local
 #### Setup Environment - Shell/Terminal
