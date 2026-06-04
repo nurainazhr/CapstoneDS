@@ -18,16 +18,16 @@ Sumber: https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19
 5. Bagaimana pola fluktuasi tahunan rata-rata volume sampah plastik di pesisir pantai selama periode 2013–2021? Apakah volume sampah plastik di seluruh pantai terus meningkat dari tahun ke tahun?
 
 ## 🔍 Fitur Utama Dashboard
-- Interactive Data Visualization: Visualisasi data sampah pantai menggunakan diagram dan grafik
-- 
-- Trend Sampah Plastik
+- Analisis Material dan Recyclability: Menganalisis komposisi material dan kelayakan daur ulang sampah di pantai
+- Visualisasi Interaktif Komposisi Sampah: Menampilkan distribusi jenis sampah dan material
+- Trend Sampah Plastik: Menampilkan total sampah plastik di pantai tahun 2013-2021
 
 ## 📊 Dashboard dengan Streamlit
 ### Streamlit Cloud
 Untuk melihat dasbor Streamlit langsung melalui tautan ini: [Dashboard](https://cc26-psu157.streamlit.app/)
 #### Preview
 Tampilan Beach Litter Analytic Dashboard
-![3dash](https://github.com/user-attachments/assets/bc8bf7ef-91fb-48e0-aba6-8716dc05346d)
+![3dash](https://github.com/user-attachments/assets/d8e2ee7f-c6e1-4d9c-ada8-357a8b1afcac)
 
 ### Run Streamlit on Local
 #### Setup Environment - Shell/Terminal
