@@ -27,7 +27,7 @@ Sumber: https://www.kaggle.com/datasets/maartenvandevelde/marine-litter-watch-19
 Untuk melihat dasbor Streamlit langsung melalui tautan ini: [Dashboard](https://cc26-psu157.streamlit.app/)
 #### Preview
 Tampilan Beach Litter Analytic Dashboard
-[Dashbord preview](https://github.com/user-attachments/assets/bc8bf7ef-91fb-48e0-aba6-8716dc05346d)
+![3dash](https://github.com/user-attachments/assets/bc8bf7ef-91fb-48e0-aba6-8716dc05346d)
 
 ### Run Streamlit on Local
 #### Setup Environment - Shell/Terminal
